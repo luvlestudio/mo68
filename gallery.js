@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "재원 ♥ 보나의 모바일 청첩장",
         description: "2025년 5월 31일 토요일♡",
-        imageUrl: "https://i.imgur.com/0H4hOI8.png",
+        imageUrl: "https://i.imgur.com/RpvGQut.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
